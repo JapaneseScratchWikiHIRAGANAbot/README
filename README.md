@@ -9,5 +9,5 @@ apple502j:https://github.com/apple502j
 ## ライセンスは?
 ライセンスはCC-BY-SA-3.0です。
 ## 所要
-仕様ソフト:Python3.6.6
-仕様モジュール:mw_api_client as mwc,pykakasi
+使用ソフト:Python3.6.6
+使用モジュール:mw_api_client as mwc,pykakasi
