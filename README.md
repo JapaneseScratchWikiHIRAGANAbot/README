@@ -6,9 +6,12 @@
 作成者はT-takuです。
 ## 作成チーム
 T-taku:https://github.com/T-taku
+
 mii-10:https://github.com/mii-10
-### 手伝ってくれた人
+
 apple502j:https://github.com/apple502j
+### 手伝ってくれた人
+...
 ## ライセンスは?
 ライセンスはCC-BY-SA-3.0です。
 ## 所要
