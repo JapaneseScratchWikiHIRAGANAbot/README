@@ -3,7 +3,7 @@
 ## このボットは?
 このボットはJapanese Scratch-Wikiのひらがな化のために作られたボットです。
 ## 所有者&作成者は?
-作成者はT-takuです。
+所有者はT-takuです。
 ## 作成チーム
 T-taku:https://github.com/T-taku
 
